@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="./dev.gif" width="500" height="320" />
 
-- 🌱 I’m currently learning, React, Node and [React Native](https://github.com/luanerdy/loldata)
+- 🌱 I’m currently learning, React, Node and React Native
 - 👯 I’m looking to collaborate on education for vulnerable people
 - 📫 How to reach me: [WhatsApp](https://wa.me/5581993073189)
 - ⚡ Fun fact: I love nature
